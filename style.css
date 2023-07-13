@@ -3,3 +3,19 @@
     padding:0;
 }
 
+.container{
+    display: flex;
+    background-color: rgb(20,162,184);
+    width: 800px;
+    margin: 40px auto;
+}
+
+.card-body{
+    display: flex;
+    background-color: white;
+    border: red 2px solid;
+    flex-direction: column;
+    width: 800px;
+    text-align: left;
+}
+
